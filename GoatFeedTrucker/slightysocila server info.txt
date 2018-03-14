@@ -1,0 +1,4 @@
+you need sftp
+host: gqvcg5aa.joyent.us
+IMAP/FTP login: nelson-iosgames
+Password: ZrmgJEH7lCtU6jj

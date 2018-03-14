@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.0</key>
+	<dict>
+		<key>NEEDS_UPDATING</key>
+		<integer>0</integer>
+		<key>AD_BANNER_ON</key>
+		<integer>1</integer>
+		<key>AD_ON_ACTIVE</key>
+		<integer>0</integer>
+		<key>AD_ON_FREEGAME</key>
+		<integer>0</integer>
+		<key>AD_ON_GAMEOVER</key>
+		<integer>0</integer>
+		<key>AD_ON_LOAD_1</key>
+		<integer>0</integer>
+		<key>AD_ON_LOAD_2</key>
+		<integer>0</integer>
+		<key>AD_ON_PAUSE</key>
+		<integer>0</integer>
+		<key>IS_IN_REVIEW</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

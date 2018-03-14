@@ -1,0 +1,20 @@
+// Plist
+    NSURL *theURL = [NSURL fileURLWithPath:@"http://www.rollupthecup2.slightlysocial.com/web/public/roll_up_the_cup_2_backend/roll_the_cup_1_3.plist" 
+                               isDirectory:NO];
+    NSError *err;
+    if ([theURL checkResourceIsReachableAndReturnError:&err] == YES)
+    {
+        NSURL* url = [NSURL URLWithString:@"http://www.rollupthecup2.slightlysocial.com/web/public/roll_up_the_cup_2_backend/roll_the_cup_1_3.plist"];
+        NSDictionary* showAds = [NSDictionary dictionaryWithContentsOfURL:url];
+        
+        Ad_On_Load_1 = [[showAds valueForKey:@"Ad_On_Load_1"] intValue];
+        Ad_On_Load_2 = [[showAds valueForKey:@"Ad_On_Load_2"] intValue];
+        Ad_On_DidBecomeActive = [[showAds valueForKey:@"Ad_On_DidBecomeActive"] intValue];
+        Ad_On_Back_To_Main_Screen = [[showAds valueForKey:@"Ad_On_Back_To_Main_Screen"] intValue];
+        Banner_On_Play_Page = [[showAds valueForKey:@"Banner_On_Play_Page"] intValue];
+        Banner_On_Store_Page = [[showAds valueForKey:@"Banner_On_Store_Page"] intValue];
+        Popup_During_Gameplay = [[showAds valueForKey:@"Popup_During_Gameplay"] intValue];
+        Cutom_Popup_For_New_Player = [[showAds valueForKey:@"Cutom_Popup_For_New_Player"] intValue];
+        Free_Game_Button = [[showAds valueForKey:@"Free_Game_Button"] intValue];
+        Earn_Free_Loonies_Button = [[showAds valueForKey:@"Earn_Free_Loonies_Button"] intValue];
+    }

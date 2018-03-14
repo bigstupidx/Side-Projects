@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<map version="0.99b" orientation="orthogonal" width="15" height="1" tilewidth="512" tileheight="320">
+ <tileset name="Graveyard 01" firstgid="1" tilewidth="512" tileheight="320">
+  <image source="Graveyard_01.png"/>
+ </tileset>
+ <tileset name="Graveyard 02" firstgid="2" tilewidth="512" tileheight="320">
+  <image source="Graveyard_02.png"/>
+ </tileset>
+ <layer name="Layer 0" width="15" height="1">
+  <data encoding="base64">
+   AQAAAAIAAAACAAAAAQAAAAIAAAACAAAAAQAAAAIAAAACAAAAAQAAAAIAAAACAAAAAQAAAAIAAAACAAAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,6 @@
+@interface ExplosionParticle : CCParticleSystemPoint {
+	
+}
+
+@end
+

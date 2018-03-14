@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/junkfoodwars/!svn/ver/65/trunk/Classes
+END
+Fruit.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/junkfoodwars/!svn/ver/65/trunk/Classes/Fruit.h
+END
+MemoryConsumer.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/junkfoodwars/!svn/ver/56/trunk/Classes/MemoryConsumer.m
+END
+OptionsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/junkfoodwars/!svn/ver/25/trunk/Classes/OptionsViewController.h
+END
+Geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/junkfoodwars/!svn/ver/2/trunk/Classes/Geometry.h
+END
+FadingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/junkfoodwars/!svn/ver/18/trunk/Classes/FadingViewController.m
+END
+HelpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/junkfoodwars/!svn/ver/56/trunk/Classes/HelpViewController.m
+END
+ParticleAtlas.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/junkfoodwars/!svn/ver/56/trunk/Classes/ParticleAtlas.m
+END
+OpenGLES2DView.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/junkfoodwars/!svn/ver/2/trunk/Classes/OpenGLES2DView.h
+END
+GLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/junkfoodwars/!svn/ver/68/trunk/Classes/GLView.h
+END
+Sword.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/junkfoodwars/!svn/ver/2/trunk/Classes/Sword.h
+END
+Fruit.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/junkfoodwars/!svn/ver/65/trunk/Classes/Fruit.m
+END
+OptionsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/junkfoodwars/!svn/ver/67/trunk/Classes/OptionsViewController.m
+END
+Geometry.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/junkfoodwars/!svn/ver/2/trunk/Classes/Geometry.m
+END
+Audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/junkfoodwars/!svn/ver/2/trunk/Classes/Audio.h
+END
+OpenGLES2DView.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/junkfoodwars/!svn/ver/2/trunk/Classes/OpenGLES2DView.m
+END
+GLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/junkfoodwars/!svn/ver/67/trunk/Classes/GLView.m
+END
+Sword.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/junkfoodwars/!svn/ver/32/trunk/Classes/Sword.m
+END
+Audio.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/junkfoodwars/!svn/ver/62/trunk/Classes/Audio.m
+END
+GameKitLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/junkfoodwars/!svn/ver/64/trunk/Classes/GameKitLibrary.h
+END
+ParticleAtlasItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/junkfoodwars/!svn/ver/2/trunk/Classes/ParticleAtlasItem.h
+END
+Game.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/junkfoodwars/!svn/ver/65/trunk/Classes/Game.h
+END
+PlayModeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/junkfoodwars/!svn/ver/56/trunk/Classes/PlayModeViewController.h
+END
+GameKitLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/junkfoodwars/!svn/ver/65/trunk/Classes/GameKitLibrary.m
+END
+ParticleAtlasItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/junkfoodwars/!svn/ver/2/trunk/Classes/ParticleAtlasItem.m
+END
+Game.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/junkfoodwars/!svn/ver/65/trunk/Classes/Game.m
+END
+PlayModeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/junkfoodwars/!svn/ver/67/trunk/Classes/PlayModeViewController.m
+END
+Texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/junkfoodwars/!svn/ver/2/trunk/Classes/Texture2D.h
+END
+MemoryItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/junkfoodwars/!svn/ver/56/trunk/Classes/MemoryItem.h
+END
+GameKitAchievement.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/junkfoodwars/!svn/ver/4/trunk/Classes/GameKitAchievement.h
+END
+Texture2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/junkfoodwars/!svn/ver/2/trunk/Classes/Texture2D.m
+END
+MemoryItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/junkfoodwars/!svn/ver/56/trunk/Classes/MemoryItem.m
+END
+MenuViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/junkfoodwars/!svn/ver/38/trunk/Classes/MenuViewController.xib
+END
+GameKitAchievement.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/junkfoodwars/!svn/ver/41/trunk/Classes/GameKitAchievement.m
+END
+GLViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/junkfoodwars/!svn/ver/25/trunk/Classes/GLViewController.h
+END
+MenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/junkfoodwars/!svn/ver/67/trunk/Classes/MenuViewController.h
+END
+Atlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/junkfoodwars/!svn/ver/56/trunk/Classes/Atlas.h
+END
+FruitSlayerAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/junkfoodwars/!svn/ver/56/trunk/Classes/FruitSlayerAppDelegate.h
+END
+Coord.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/junkfoodwars/!svn/ver/2/trunk/Classes/Coord.h
+END
+GLViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/junkfoodwars/!svn/ver/64/trunk/Classes/GLViewController.m
+END
+Sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/junkfoodwars/!svn/ver/42/trunk/Classes/Sprite.h
+END
+MenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/junkfoodwars/!svn/ver/67/trunk/Classes/MenuViewController.m
+END
+Atlas.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/junkfoodwars/!svn/ver/56/trunk/Classes/Atlas.m
+END
+FruitSlayerAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/junkfoodwars/!svn/ver/67/trunk/Classes/FruitSlayerAppDelegate.m
+END
+Sprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/junkfoodwars/!svn/ver/42/trunk/Classes/Sprite.m
+END
+Coord.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/junkfoodwars/!svn/ver/2/trunk/Classes/Coord.m
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/junkfoodwars/!svn/ver/67/trunk/Classes/Constants.h
+END
+GameKitScore.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/junkfoodwars/!svn/ver/4/trunk/Classes/GameKitScore.h
+END
+Constants.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/junkfoodwars/!svn/ver/67/trunk/Classes/Constants.m
+END
+CustomizeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/56/trunk/Classes/CustomizeViewController.h
+END
+GameKitScore.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/junkfoodwars/!svn/ver/41/trunk/Classes/GameKitScore.m
+END
+HelpViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/junkfoodwars/!svn/ver/20/trunk/Classes/HelpViewController.xib
+END
+AtlasItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/junkfoodwars/!svn/ver/2/trunk/Classes/AtlasItem.h
+END
+MemoryConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/junkfoodwars/!svn/ver/56/trunk/Classes/MemoryConsumer.h
+END
+CustomizeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/67/trunk/Classes/CustomizeViewController.m
+END
+FadingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/junkfoodwars/!svn/ver/15/trunk/Classes/FadingViewController.h
+END
+HelpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/junkfoodwars/!svn/ver/20/trunk/Classes/HelpViewController.h
+END
+ParticleAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/junkfoodwars/!svn/ver/56/trunk/Classes/ParticleAtlas.h
+END
+AtlasItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/junkfoodwars/!svn/ver/2/trunk/Classes/AtlasItem.m
+END

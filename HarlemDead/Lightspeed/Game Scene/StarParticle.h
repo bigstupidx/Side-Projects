@@ -1,0 +1,6 @@
+@interface StarParticle : CCParticleSystemPoint {
+	
+}
+
+@end
+

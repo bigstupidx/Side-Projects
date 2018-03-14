@@ -1,0 +1,45 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 23
+/junkfoodwars/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/junkfoodwars/!svn/ver/67/trunk
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/junkfoodwars/!svn/ver/2/trunk/main.m
+END
+OpenGLCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/junkfoodwars/!svn/ver/2/trunk/OpenGLCommon.h
+END
+Entitlements.plist
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/junkfoodwars/!svn/ver/2/trunk/Entitlements.plist
+END
+ConstantsAndMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/junkfoodwars/!svn/ver/2/trunk/ConstantsAndMacros.h
+END
+FruitSlayerLite-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/junkfoodwars/!svn/ver/68/trunk/FruitSlayerLite-Info.plist
+END
+FruitSlayerLite_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/junkfoodwars/!svn/ver/67/trunk/FruitSlayerLite_Prefix.pch
+END

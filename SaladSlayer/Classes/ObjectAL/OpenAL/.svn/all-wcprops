@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL
+END
+ChannelSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ChannelSource.h
+END
+ALBuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALBuffer.m
+END
+ALWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALWrapper.h
+END
+ChannelSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ChannelSource.m
+END
+ALCaptureDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALCaptureDevice.h
+END
+ALContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALContext.h
+END
+ALWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALWrapper.m
+END
+ALListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALListener.h
+END
+SoundSourcePool.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/SoundSourcePool.h
+END
+ALCaptureDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALCaptureDevice.m
+END
+ALContext.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALContext.m
+END
+ALListener.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALListener.m
+END
+SoundSourcePool.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/SoundSourcePool.m
+END
+OpenALManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/OpenALManager.h
+END
+SoundSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/SoundSource.h
+END
+ALDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALDevice.h
+END
+ALSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALSource.h
+END
+OpenALManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/OpenALManager.m
+END
+ALTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALTypes.h
+END
+ALDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALDevice.m
+END
+ALSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALSource.m
+END
+ALBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/OpenAL/ALBuffer.h
+END

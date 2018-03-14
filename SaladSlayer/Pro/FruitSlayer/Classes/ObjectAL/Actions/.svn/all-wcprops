@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions
+END
+OALAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions/OALAction.h
+END
+OALActionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions/OALActionManager.m
+END
+OALAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions/OALAction.m
+END
+OALFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions/OALFunction.h
+END
+OALActionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions/OALActionManager.h
+END
+OALFunction.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/junkfoodwars/!svn/ver/2/trunk/Classes/ObjectAL/Actions/OALFunction.m
+END

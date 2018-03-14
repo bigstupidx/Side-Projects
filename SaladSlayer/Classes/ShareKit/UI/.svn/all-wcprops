@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI
+END
+SHKViewControllerWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKViewControllerWrapper.m
+END
+SHKShareMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKShareMenu.h
+END
+SHKFormFieldSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKFormFieldSettings.h
+END
+SHKActivityIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKActivityIndicator.h
+END
+SHKShareMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKShareMenu.m
+END
+SHKFormFieldSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKFormFieldSettings.m
+END
+SHKActivityIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKActivityIndicator.m
+END
+SHKActionSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKActionSheet.h
+END
+SHKFormFieldCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKFormFieldCell.h
+END
+SHKFormController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKFormController.h
+END
+SHKOAuthView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKOAuthView.h
+END
+SHKActionSheet.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKActionSheet.m
+END
+SHKFormFieldCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKFormFieldCell.m
+END
+SHKFormController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKFormController.m
+END
+SHKViewControllerWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKViewControllerWrapper.h
+END
+SHKOAuthView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/junkfoodwars/!svn/ver/53/trunk/Classes/ShareKit/UI/SHKOAuthView.m
+END

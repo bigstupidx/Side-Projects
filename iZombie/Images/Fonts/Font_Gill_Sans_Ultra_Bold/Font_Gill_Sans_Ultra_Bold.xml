@@ -1,0 +1,53 @@
+<fonty version="1.0">
+<font name="" image="Font_Gill_Sans_Ultra_Bold.png" size="15" intercharacterspace="1" interwordspace="4" interlinespace="8">
+<char character="A" x="0" y="0" width="28" height="26"/>
+<char character="B" x="34" y="0" width="24" height="26"/>
+<char character="C" x="68" y="0" width="22" height="26"/>
+<char character="D" x="102" y="0" width="23" height="26"/>
+<char character="E" x="136" y="0" width="20" height="26"/>
+<char character="F" x="170" y="0" width="20" height="26"/>
+<char character="G" x="204" y="0" width="24" height="26"/>
+<char character="H" x="238" y="0" width="25" height="26"/>
+<char character="I" x="0" y="26" width="13" height="26"/>
+<char character="J" x="34" y="26" width="17" height="26"/>
+<char character="K" x="68" y="26" width="26" height="26"/>
+<char character="L" x="102" y="26" width="20" height="26"/>
+<char character="M" x="136" y="26" width="26" height="26"/>
+<char character="N" x="170" y="26" width="23" height="26"/>
+<char character="O" x="204" y="26" width="23" height="26"/>
+<char character="P" x="0" y="52" width="23" height="26"/>
+<char character="Q" x="34" y="52" width="25" height="26"/>
+<char character="R" x="68" y="52" width="25" height="26"/>
+<char character="S" x="102" y="52" width="22" height="26"/>
+<char character="T" x="136" y="52" width="21" height="26"/>
+<char character="U" x="170" y="52" width="23" height="26"/>
+<char character="V" x="204" y="52" width="25" height="26"/>
+<char character="W" x="0" y="78" width="34" height="26"/>
+<char character="X" x="34" y="78" width="28" height="26"/>
+<char character="Y" x="68" y="78" width="27" height="26"/>
+<char character="Z" x="102" y="78" width="24" height="26"/>
+<char character="0" x="136" y="78" width="23" height="26"/>
+<char character="1" x="170" y="78" width="13" height="26"/>
+<char character="2" x="204" y="78" width="20" height="26"/>
+<char character="3" x="0" y="104" width="19" height="26"/>
+<char character="4" x="34" y="104" width="23" height="26"/>
+<char character="5" x="68" y="104" width="21" height="26"/>
+<char character="6" x="102" y="104" width="23" height="26"/>
+<char character="7" x="136" y="104" width="21" height="26"/>
+<char character="8" x="170" y="104" width="23" height="26"/>
+<char character="9" x="204" y="104" width="23" height="26"/>
+<char character="!" x="0" y="130" width="13" height="26"/>
+<char character="#" x="34" y="130" width="19" height="26"/>
+<char character="$" x="68" y="130" width="23" height="26"/>
+<char character="%" x="102" y="130" width="29" height="26"/>
+<char character="&" x="136" y="130" width="26" height="26"/>
+<char character="(" x="170" y="130" width="17" height="26"/>
+<char character=")" x="204" y="130" width="17" height="26"/>
+<char character="+" x="0" y="156" width="18" height="26"/>
+<char character="-" x="34" y="156" width="14" height="26"/>
+<char character="?" x="68" y="156" width="17" height="26"/>
+<char character="/" x="102" y="156" width="13" height="26"/>
+<char character="." x="136" y="156" width="13" height="26"/>
+<char character="," x="170" y="156" width="13" height="26"/>
+</font>
+</fonty>
